@@ -21,3 +21,7 @@ An automated multimedia documentation engine that turns technical YouTube videos
 ## Instructions
 
 See [INSTRUCTIONS.md](./INSTRUCTIONS.md) for CLI commands and generation flags.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0) - see the [LICENSE](./LICENSE) file for details.
